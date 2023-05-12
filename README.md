@@ -1,6 +1,9 @@
 # Industrial-Biscuit-Anomaly-Detection-using-Deep-Learning
 This repository contains the code and resources for a machine learning project aimed at detecting anomalies in industrial biscuit production. The project leverages the power of deep learning, utilizing advanced convolutional neural network (CNN) architectures like Xception and EfficientNet for image classification tasks.
 
+## Dataset
+https://www.kaggle.com/datasets/imonbilk/industry-biscuit-cookie-dataset
+
 ## Project Overview
 The project begins with a comprehensive exploratory data analysis (EDA) to understand the characteristics of the data. It then follows a structured machine learning pipeline including data preprocessing, model building, training, validation, and testing. Data augmentation techniques were applied to improve the model's robustness and ability to generalize.
 
